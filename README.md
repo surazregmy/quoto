@@ -1,16 +1,21 @@
 # quoto
 
-A new Flutter project.
+Talk is cheap. Show me quotes. :P 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple App to stay upto date with quotes! :D 
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots
+<br/>
+# App Logo
+![Alt text](/screenshots/Screenshot_20200829-211030.jpg?raw=true "App Logo")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# App Random Quotes
+![Alt text](/screenshots/Screenshot_20200829-211052.jpg?raw=true "App Logo")
+![Alt text](/screenshots/Screenshot_20200829-211102.jpg?raw=true "App Logo")
+![Alt text](/screenshots/Screenshot_20200829-211042.jpg?raw=true "App Logo")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Favourite Quotes
+![Alt text](/screenshots/Screenshot_20200829-211113.jpg?raw=true "App Logo")
+
