@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76727076201",
+    "firebase_url": "https://quoto-186c7.firebaseio.com",
+    "project_id": "quoto-186c7",
+    "storage_bucket": "quoto-186c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76727076201:android:f4f9da94ed7d48f07c29f8",
+        "android_client_info": {
+          "package_name": "com.example.quoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76727076201-3d6iuokp4l9oui94kot6a6l1qmrq17a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbvx-8FmIqgoGkiPLV39Mfc_I4uly--NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76727076201-3d6iuokp4l9oui94kot6a6l1qmrq17a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
